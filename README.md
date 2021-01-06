@@ -31,8 +31,8 @@ Similar applications may also work.
 == List of Files ====================
 \pandas_challenge
 README.md
-\PyCitySchool
-    Main.py
+\PyCitySchools
+    PyCitySchools_starter.ipynb
     \xxx
         xxx.txt
 
