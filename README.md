@@ -4,8 +4,8 @@ First pandas coding project.
 ReadMe File
 ================
 
-Updated: Jan 5, 2021 | Created: Jan 5, 2021
-Version: 1
+Updated: Jan 7, 2021 | Created: Jan 5, 2021
+Version: 2
 Copyright: open source
 
 == License ===========================
@@ -47,10 +47,10 @@ None
 == Troubleshooting ===============
 Resources used to build this code listed below, in addition to help and code peer review from students in class and tutor (N.Tsai) .
 
-PyBank:
+http://vcloud-lab.com/entries/devops/resolved-git-warning-lf-will-be-replaced-by-crlf-in-file
 
 
-URLs last used: January 5, 2021
+URLs last used: January 7, 2021
 
 
 
