@@ -51,6 +51,14 @@ Starter File: PyCitySchools_starter.ipynb
 http://vcloud-lab.com/entries/devops/resolved-git-warning-lf-will-be-replaced-by-crlf-in-file
 https://www.youtube.com/watch?v=6dU5VfefG94
 https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.merge.html
+https://www.geeksforgeeks.org/python-statistics-mean-function/
+
+Git Hub Student Resources: Shrawantee Saha, Jie Fan
+
+
+
+
 
 URLs last used: January 8, 2021
 
