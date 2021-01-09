@@ -4,8 +4,8 @@ First pandas coding project.
 ReadMe File
 ================
 
-Updated: Jan 7, 2021 | Created: Jan 5, 2021
-Version: 2
+Updated: Jan 8, 2021 | Created: Jan 5, 2021
+Version: 3
 Copyright: open source
 
 == License ===========================
@@ -47,10 +47,12 @@ None
 == Troubleshooting ===============
 Resources used to build this code listed below, in addition to help and code peer review from students in class and tutor (N.Tsai) .
 
+Starter File: PyCitySchools_starter.ipynb
 http://vcloud-lab.com/entries/devops/resolved-git-warning-lf-will-be-replaced-by-crlf-in-file
+https://www.youtube.com/watch?v=6dU5VfefG94
+https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html
 
-
-URLs last used: January 7, 2021
+URLs last used: January 8, 2021
 
 
 
