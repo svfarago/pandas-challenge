@@ -5,7 +5,7 @@ ReadMe File
 ================
 
 Updated: Jan 11, 2021 | Created: Jan 5, 2021
-Version: 4
+Version: 5
 Copyright: open source
 
 == License ===========================
@@ -20,12 +20,13 @@ None. See Installation instructions below for a list of applications.
 Applications used for the Pandas_Challenge:
 - Jupyter Notebook
 - GitBash terminal
+- Git Hub (to save versions and share code while in development)
 
 Similar applications may also work.
 
 
 == Operating Instructions =============
-
+Open file in Jupyter Notebook and play all rows.
 
 
 == List of Files ====================
@@ -55,9 +56,13 @@ https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.merg
 https://www.geeksforgeeks.org/python-statistics-mean-function/
 https://www.dofactory.com/sql/join
 https://www.sharpsightlabs.com/blog/pandas-set-index/
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html
+https://pandas.pydata.org/pandas-docs/version/0.23/generated/pandas.DataFrame.head.html
+https://pbpython.com/currency-cleanup.html
 
 
-Git Hub Student Resources: Shrawantee Saha, Jie Fan
+
+Git Hub Resources: S. Saha, J. Fan, ZG. Scherrer, E. Gaga
 
 
 
