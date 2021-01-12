@@ -4,7 +4,7 @@ First pandas coding project.
 ReadMe File
 ================
 
-Updated: Jan 9, 2021 | Created: Jan 5, 2021
+Updated: Jan 11, 2021 | Created: Jan 5, 2021
 Version: 4
 Copyright: open source
 
@@ -54,6 +54,7 @@ https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.merge.html
 https://www.geeksforgeeks.org/python-statistics-mean-function/
 https://www.dofactory.com/sql/join
+https://www.sharpsightlabs.com/blog/pandas-set-index/
 
 
 Git Hub Student Resources: Shrawantee Saha, Jie Fan
