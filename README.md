@@ -4,8 +4,8 @@ First pandas coding project.
 ReadMe File
 ================
 
-Updated: Jan 11, 2021 | Created: Jan 5, 2021
-Version: 5
+Updated: Jan 13, 2021 | Created: Jan 5, 2021
+Version: 6
 Copyright: open source
 
 == License ===========================
@@ -20,25 +20,29 @@ None. See Installation instructions below for a list of applications.
 Applications used for the Pandas_Challenge:
 - Jupyter Notebook
 - GitBash terminal
+- Visual Studio Code for the Readme.md
 - Git Hub (to save versions and share code while in development)
 
 Similar applications may also work.
 
 
 == Operating Instructions =============
-Open file in Jupyter Notebook and play all rows.
+Open file in Jupyter Notebook and play/run all rows in order from top to bottom.
 
 
 == List of Files ====================
 \pandas_challenge
-README.md
-\PyCitySchools
-    PyCitySchools_starter.ipynb
-    \xxx
-        xxx.txt
+    \PyCitySchools
+        PyCitySchoolsAnalysis.ipynb
+    \Resources
+        schools_complete.csv
+        students_complete.csv
+    README.md
+    PyCitySchools_starter.ipynb (starter file with instructions)
 
 
-
+== Data Set =======================
+Two .csv data files were provided as part of this project.
 
 
 == Known Bugs =====================
@@ -46,9 +50,10 @@ None
 
 
 == Troubleshooting ===============
-Resources used to build this code listed below, in addition to help and code peer review from students in class and tutor (N.Tsai) .
+#print hashtags are used liberally throughout the code to run individual lines of code for additional testingt/troubleshooting, and general comment hashtags for notes/additional information.
 
-Starter File: PyCitySchools_starter.ipynb
+Resources used to build and troubleshoot this code are listed below, in addition to help and code peer review from students, instructor, and TA's in class and external tutor (N.Tsai). Additional Git Hub Resources: S. Saha, J. Fan, ZG. Scherrer, E. Gaga
+
 http://vcloud-lab.com/entries/devops/resolved-git-warning-lf-will-be-replaced-by-crlf-in-file
 https://www.youtube.com/watch?v=6dU5VfefG94
 https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html
@@ -59,17 +64,9 @@ https://www.sharpsightlabs.com/blog/pandas-set-index/
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html
 https://pandas.pydata.org/pandas-docs/version/0.23/generated/pandas.DataFrame.head.html
 https://pbpython.com/currency-cleanup.html
+https://stackoverflow.com/questions/46421663/what-are-jupyter-notebook-checkpoint-files-for
 
-
-
-Git Hub Resources: S. Saha, J. Fan, ZG. Scherrer, E. Gaga
-
-
-
-
-
-URLs last used: January 8, 2021
-
+URLs last used: January 13, 2021
 
 
 
@@ -78,4 +75,6 @@ Colorado   United States
 
 
 == Random Notes ===============
-This is my first official Pandas project.
+This is my first official Pandas project and use of Jupyter Notebook.
+Time to complete: approximately 25 hours
+
