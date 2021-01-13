@@ -33,13 +33,13 @@ Open file in Jupyter Notebook and play/run all rows in order from top to bottom.
 == List of Files ====================
 \pandas_challenge
     \PyCitySchools
-        PyCitySchoolsAnalysis.ipynb
+        (empty)
     \Resources
         schools_complete.csv
         students_complete.csv
     README.md
     PyCitySchools_starter.ipynb (starter file with instructions)
-
+    PyCitySchools_Analysis.ipynb (analysis notebook)
 
 == Data Set =======================
 Two .csv data files were provided as part of this project.
