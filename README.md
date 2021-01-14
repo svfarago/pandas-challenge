@@ -39,7 +39,7 @@ Open file in Jupyter Notebook and play/run all rows in order from top to bottom.
         students_complete.csv
     README.md
     PyCitySchools_starter.ipynb (starter file with instructions)
-    PyCitySchools_Analysis.ipynb (analysis notebook)
+    PyCitySchools_Analysis.ipynb (data analysis & code notebook)
 
 == Data Set =======================
 Two .csv data files were provided as part of this project.
@@ -76,5 +76,5 @@ Colorado   United States
 
 == Random Notes ===============
 This is my first official Pandas project and use of Jupyter Notebook.
-Time to complete: approximately 25 hours
+Time to complete: approximately 28 hours
 
