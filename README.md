@@ -55,7 +55,7 @@ None.
 == Troubleshooting ===============
 #print hashtags are used liberally throughout the code to run individual lines of code for additional testing/troubleshooting, and general comment hashtags for code notes/additional information.
 
-Resources used to build and troubleshoot this code are listed below, in addition to help and code peer review from students, instructor, and TA's in class and external tutor (N.Tsai). Additional Git Hub Resources: S. Saha, J. Fan, ZG. Scherrer, E. Gaga,, M. Carty.
+Resources used to build and troubleshoot this code are listed below, in addition to help and code peer review from students, instructor, and TA's in class and external tutor (N.Tsai). Additional Git Hub Resources: S. Saha, J. Fan, ZG. Scherrer, E. Gaga, M. Carty.
 
 https://www.dofactory.com/sql/join
 https://pbpython.com/currency-cleanup.html
