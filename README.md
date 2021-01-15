@@ -81,5 +81,5 @@ Colorado   United States
 
 == Random Notes ===============
 This is my first official Pandas project and use of Jupyter Notebook.
-Time to complete: approximately 28 hours
+Time to complete: approximately 30 hours
 
